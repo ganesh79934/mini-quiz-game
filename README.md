@@ -23,9 +23,7 @@ A clean and responsive emoji-based Rock Paper Scissors game built with HTML, CSS
    - Tie
 4. Scores update live in the interface
 
-## 🖼️ Screenshots
-![Gameplay](Images/rps1.png)
-![Gameplay](Images/rps2.png)
+
 
 ## 🔗 Live Demo
 [Play the Rock-Paper-Scissors Game](https://balubalaji04.github.io/Mini-Game-Project/)
